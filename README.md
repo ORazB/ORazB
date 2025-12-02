@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Kyouka
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/1200x/7d/de/58/7dde586d38a2bb3f56e2fe8f787df60c.jpg" width="100%" />
-</p>
+</p> -->
 
 I'm a high school student with a deep passion for programming. I love building projects, solving algorithm challenges, and exploring tech beyond the classroom.  
 

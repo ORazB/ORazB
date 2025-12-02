@@ -7,6 +7,16 @@
 I'm a high school student with a deep passion for programming. I love building projects, solving algorithm challenges, and exploring tech beyond the classroom.  
 
 ---
+### 🧰 Technologies I Use
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,lua" /> </p>
+Web & Frameworks
+<p> <img src="https://skillicons.dev/icons?i=nextjs,laravel,react,tailwind,bootstrap,html,css" /> </p>
+Mobile Development
+<p> <img src="https://skillicons.dev/icons?i=androidstudio,react" /> </p>
+Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=prisma,mysql,nodejs" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </p>
 
 ### 🔭 Currently Working On
 - 🖥️ Full-stack project for PKL

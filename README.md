@@ -16,5 +16,5 @@ I'm a high school student with a deep passion for programming. I love building p
 - System Design
 
 ### ⚡ Fun Facts
-- My favorite game is **Honkai: Star Rail**, as you can see from my SilverWolf profile picture
-- Used to be a Roblox Developer during middle school (Learnt 3D modeling with Blender during this time and fundamental of programming)
+- My favorite game is **Honkai: Star Rail**, as you can probably tell from my Silver Wolf profile picture and the image above  
+- Used to be a Roblox developer during middle school (learned 3D modeling with Blender and the fundamentals of programming)

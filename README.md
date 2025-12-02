@@ -27,9 +27,6 @@ I'm a high school student with a deep passion for programming. I love building p
 
 ---
 
-### 🔭 Currently Working On
-- 🖥️ Full-stack project for PKL
-
 ### 🌱 Currently Learning
 - Advanced **Data Structures & Algorithms**
 - System Design

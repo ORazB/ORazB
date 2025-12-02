@@ -11,7 +11,7 @@ I'm a high school student with a deep passion for programming. I love building p
 ### 🧰 Technologies I’ve Worked With
 
 **Languages**  
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,lua" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,python" /></p>
 
 **Web & Frameworks**  
 <p><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,html,css" /></p>

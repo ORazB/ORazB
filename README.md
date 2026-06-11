@@ -1,4 +1,4 @@
-## Hi there! 👋
+### Hi there! 👋
 
 I'm an 18 years old student from Indonesia that enjoys programming as a hobby at the start a self taught developer who started out building things for fun and never really stopped.
 

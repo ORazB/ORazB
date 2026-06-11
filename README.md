@@ -6,7 +6,7 @@ These days I spend most of my time building web apps, but I’m also exploring s
 
 I'm currently shifting toward larger, more complete projects, including real client work.
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I’m an 18 years old student from Indonesia and a self taught developer. I started out building things for fun and never really stopped.
+I’m an 18 years old student from Indonesia. I started out building things for fun and never really stopped.
 
 These days I spend most of my time building web apps, but I’m also exploring system design, backend engineering, and lower level concepts just to understand what’s happening under the hood.
 
